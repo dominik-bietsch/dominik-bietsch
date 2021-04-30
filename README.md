@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dominik-bietsch
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 📫 How to reach me linkedin.com/dominikbietsch
+- 📫 How to reach me linkedin.com/in/dominikbietsch
 
 <!---
 dominik-bietsch/dominik-bietsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
