@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dominik-bietsch
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently expanding my skills in Python and SQL
 - 📫 How to reach me linkedin.com/in/dominikbietsch
 
 <!---
